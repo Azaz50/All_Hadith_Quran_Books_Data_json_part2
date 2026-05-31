@@ -1,0 +1,1187 @@
+{
+  "id": 12,
+  "metadata": {
+    "id": 12,
+    "length": 40,
+    "arabic": {
+      "title": "أربعون ولي الله الدهلوي",
+      "author": "الشاه ولي الدين الدهلوي",
+      "introduction": ""
+    },
+    "english": {
+      "title": "The Forty Hadith of Shah Waliullah",
+      "author": "Shah Waliullah Dahlawi",
+      "introduction": ""
+    }
+  },
+  "chapters": [
+    {
+      "id": 0,
+      "bookId": 12,
+      "arabic": "أربعون شاه ولي الله الدهلوي",
+      "english": "Forty Hadith of Shah Waliullah Dehlawi"
+    }
+  ],
+  "hadiths": [
+    {
+      "id": 41026,
+      "idInBook": 1,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "لَیْسَ الْخَبَرُ کَالْمُعَایَنَةِ",
+      "english": {
+        "narrator": "",
+        "text": "The report is not like witnessing."
+      },
+      "urdu": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "رپورٹ گواہی دینے کی طرح نہیں ہے."
+      },
+      "hindi": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "रिपोर्ट गवाही देने जैसा नहीं है।"
+      },
+      "bengali": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "রিপোর্টটা সাক্ষ্য দেওয়ার মতো নয়।"
+      }
+    },
+    {
+      "id": 41027,
+      "idInBook": 2,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "الْحَرْبُ خُدَعَةٌ",
+      "english": {
+        "narrator": "",
+        "text": "War is deception."
+      },
+      "urdu": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "جنگ دھوکہ ہے۔"
+      },
+      "hindi": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "युद्ध धोखा है।"
+      },
+      "bengali": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "যুদ্ধ হল প্রতারণা।"
+      }
+    },
+    {
+      "id": 41028,
+      "idInBook": 3,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "الْمُسْلِمُ مِرْآةُ الْمُسْلِمِ",
+      "english": {
+        "narrator": "",
+        "text": "A Muslim is a mirror of the Muslim."
+      },
+      "urdu": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "مسلمان مسلمان کا آئینہ ہے"
+      },
+      "hindi": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "एक मुसलमान मुस्लिम का दर्पण है।"
+      },
+      "bengali": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "একজন মুসলিম মুসলমানের আয়না।"
+      }
+    },
+    {
+      "id": 41029,
+      "idInBook": 4,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "الْمُسْتَشَارُ مُؤتَمَنٌ",
+      "english": {
+        "narrator": "",
+        "text": "Someone whose advice is sought is in a position of trust."
+      },
+      "urdu": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "کسی ایسے شخص کی جس سے مشورہ لیا جائے وہ اعتماد کی حالت میں ہے."
+      },
+      "hindi": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "किसी ऐसे व्यक्ति की जो सलाह मांगी जाती है, वह विश्वास की स्थिति में है।"
+      },
+      "bengali": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "একজন ব্যক্তি যার পরামর্শ চাইতে হয় সে বিশ্বাসযোগ্য।"
+      }
+    },
+    {
+      "id": 41030,
+      "idInBook": 5,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "الدَّالُّ عَلَی الْخَیْرِ کَفَاعِلِهِ",
+      "english": {
+        "narrator": "",
+        "text": "The person guiding (someone) to do a good deed, is like the one performing the good deed."
+      },
+      "urdu": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "اور جو شخص کسی نیک کام کی ہدایت کرتا ہے وہ اس کے جیسے ہے جو نیک کام کرتا ہے۔"
+      },
+      "hindi": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "और जो कोई किसी को अच्छे काम करने की हिदायत देता है तो वह भी ऐसे ही है जैसे अच्छा काम करते हैं"
+      },
+      "bengali": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "যে সৎকর ্ মের দিকে পরিচালিত করে , সে তার সমকামী ।"
+      }
+    },
+    {
+      "id": 41031,
+      "idInBook": 6,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "إِسْتَعِیْنُوْا عَلَی الْحَوَائِجِ بِالْکِتْمَانِ",
+      "english": {
+        "narrator": "",
+        "text": "Seek help for any needs discreetly."
+      },
+      "urdu": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "کسی بھی ضرورت کے لیے مدد مانگیں"
+      },
+      "hindi": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "किसी भी आवश्यकता के लिए मदद मांगें।"
+      },
+      "bengali": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "কোন প্রয়োজনের জন্য সাহায্য খোঁজবেন"
+      }
+    },
+    {
+      "id": 41032,
+      "idInBook": 7,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "إِتَّقُوْا النَّارَ وَلَوْ بِشِقِّ تَمْرَةٍ",
+      "english": {
+        "narrator": "",
+        "text": "Protect yourself from the fire even with a part of a date."
+      },
+      "urdu": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "اپنے آپ کو آگ سے بچاؤ یہاں تک کہ ایک تاریخ کے ساتھ بھی."
+      },
+      "hindi": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "एक डेट के साथ भी खुद को आग से बचाएं।"
+      },
+      "bengali": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "আগুন থেকে নিজেকে রক্ষা করুন এমনকি ডেটের অংশ দিয়েও।"
+      }
+    },
+    {
+      "id": 41033,
+      "idInBook": 8,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "الدُّنْیَا سِجْنُ الْمُؤمِنِ وَ جَنَّةُ الْکَافِرِ",
+      "english": {
+        "narrator": "",
+        "text": "The world is the believer’s prison and the disbeliever’s paradise."
+      },
+      "urdu": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "دنیا مومنوں کے لیے قید خانہ ہے اور کافروں کے لیے جنت"
+      },
+      "hindi": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "दुनिया ईमानदारों के लिए जेल और इनकार करने वालों के लिए जन्नत है"
+      },
+      "bengali": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "এই দুনিয়া মুমিনের কারাগার এবং কাফেরদের জান্নাত।"
+      }
+    },
+    {
+      "id": 41034,
+      "idInBook": 9,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "الْحَیَاءُ خَیْرٌ کُلُّهُ",
+      "english": {
+        "narrator": "",
+        "text": "Modesty is entirely good."
+      },
+      "urdu": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "اعتدال پسند ہونا بالکل اچھا ہے۔"
+      },
+      "hindi": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "विनम्रता पूरी तरह से अच्छी है।"
+      },
+      "bengali": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "বিনয়টা পুরোপুরি ভালো।"
+      }
+    },
+    {
+      "id": 41035,
+      "idInBook": 10,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "عِدَةُ الْمُؤمِنِ کَاَخْذِ الْکَفِّ",
+      "english": {
+        "narrator": "",
+        "text": "The word of the believer is like seizing of the hand."
+      },
+      "urdu": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "مومن کا قول ہاتھ پکڑنے کی طرح ہے"
+      },
+      "hindi": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "ईमानवाले का वचन हाथ पकड़ने जैसा है"
+      },
+      "bengali": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "মুমিনের কথা যেন হাত ধরার মতো ।"
+      }
+    },
+    {
+      "id": 41036,
+      "idInBook": 11,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "لَا یَحِلُّ لِمُؤمِنٍ اَنْ یَّجُهْرَ أخَاهُ فَوقَ ثَلَاثَةِ أیَّامٍ",
+      "english": {
+        "narrator": "",
+        "text": "It is unlawful for a believer to sever relations with his brother for more than three days."
+      },
+      "urdu": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "اور کسی مومن کے لیے حرام ہے کہ اپنے بھائی سے تین دن سے زیادہ کا تعلق نہ کرے"
+      },
+      "hindi": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "और किसी ईमानवाले के लिए यह हराम है कि वह अपने भाई से तीन दिन से अधिक तक सम्बन्ध न बना रहे"
+      },
+      "bengali": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "আর কোন মুমিনের জন ্ য তার ভাইয়ের সাথে তিন দিনের বেশী সম্পর্ক বিচ্ছিন্ন করা অবৈধ ।"
+      }
+    },
+    {
+      "id": 41037,
+      "idInBook": 12,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "لَیْسَ مِنَّا مَنْ غَشَّنَا",
+      "english": {
+        "narrator": "",
+        "text": "He is not one of us who cheats us."
+      },
+      "urdu": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "وہ ہم میں سے نہیں ہے جو ہمیں دھوکہ دیتا ہے."
+      },
+      "hindi": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "वह हम में से एक नहीं है जो हमें धोखा देता है।"
+      },
+      "bengali": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "সে আমাদের মধ্যে একজন নয় যে আমাদেরকে প্রতারণা করে।"
+      }
+    },
+    {
+      "id": 41038,
+      "idInBook": 13,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "مَا قَلَّ وَكَفَى خَيْرٌ مِمَّا كَثُرَ وَأَلْهَى",
+      "english": {
+        "narrator": "",
+        "text": "A little that suffices is better than an abundance that distracts."
+      },
+      "urdu": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "بہت سے لوگوں کے لئے کچھ بھی نہیں ہے جو ان کی زندگی میں ایک دوسرے کو نقصان پہنچا سکتا ہے۔"
+      },
+      "hindi": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "बहुत से लोगों के लिए कुछ ही अच्छा है, जो ध्यान भटकाने वाले हैं।"
+      },
+      "bengali": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "প্রচুর পরিমাণে যে বিপথে যায়, তার চেয়ে সামান্যই যথেষ্ট।"
+      }
+    },
+    {
+      "id": 41039,
+      "idInBook": 14,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "الرَّاجِعُ فِيْ هِبَتِهِ کَالرَّاجِعِ فِيْ قَیْئِهِ",
+      "english": {
+        "narrator": "",
+        "text": "Someone who takes back his gift is like someone who eats his vomit."
+      },
+      "urdu": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "جو شخص اپنا تحفہ واپس لے لیتا ہے وہ کسی ایسے شخص کی طرح ہے جو اپنی قہر کھاتا ہے۔"
+      },
+      "hindi": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "जो व्यक्ति अपना उपहार वापस ले लेता है, वह किसी ऐसे व्यक्ति की तरह होता है जो अपनी उल्टी खाता है।"
+      },
+      "bengali": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "কেউ যদি তার উপহার ফিরিয়ে নেয়, সে তার বমি খেয়ে ফেলার মতো।"
+      }
+    },
+    {
+      "id": 41040,
+      "idInBook": 15,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "الْبَلَاءُ مُوَکِّلٌ بِالْمَنْطِقِ",
+      "english": {
+        "narrator": "",
+        "text": "Affliction comes from (loose) talk."
+      },
+      "urdu": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "بے حیائی کی وجہ سے مصیبت آتی ہے"
+      },
+      "hindi": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "और (अज़ाब) बेहूदा बातों से आता है"
+      },
+      "bengali": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "আর দুঃখ-কষ্ট আসে কথার কারণে ।"
+      }
+    },
+    {
+      "id": 41041,
+      "idInBook": 16,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "النَّاسُ کَأسْنَانِ الْمُشْطِ",
+      "english": {
+        "narrator": "",
+        "text": "People are like the teeth of a comb."
+      },
+      "urdu": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "لوگ ایک چومنے والے کے دانتوں کی طرح ہیں."
+      },
+      "hindi": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "लोग एक पैंज के दांतों की तरह हैं।"
+      },
+      "bengali": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "মানুষ তো চামড়ার দাঁতের মতো।"
+      }
+    },
+    {
+      "id": 41042,
+      "idInBook": 17,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "الْغِنَى غِنَى النَّفْسِ",
+      "english": {
+        "narrator": "",
+        "text": "Richness lies in the richness of the soul."
+      },
+      "urdu": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "دولت روح کی دولت میں ہے"
+      },
+      "hindi": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "धन आत्मा की धन-सम्पत्ति में है।"
+      },
+      "bengali": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "ধন-সম্পদ আত্মার সম্পদেই থাকে।"
+      }
+    },
+    {
+      "id": 41043,
+      "idInBook": 18,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "الْسَّعِیْدُ مَنْ وُّعِظَ بِغَیْرِهِ",
+      "english": {
+        "narrator": "",
+        "text": "The felicitous person takes lessons from (the actions of) others."
+      },
+      "urdu": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "اور خوش نصیب شخص دوسروں سے سبق لیتا ہے"
+      },
+      "hindi": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "और जो शख़्श ख़ुश है वह (अन्य लोगों से) कुछ सीखता है"
+      },
+      "bengali": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "আর সুখে থাকা ব্যক্তিরাই অন্যদের থেকে শিক্ষা গ্রহণ করে।"
+      }
+    },
+    {
+      "id": 41044,
+      "idInBook": 19,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "وَ إِنَّ مِنَ الشِّعْرِ لَحِکْمَةً وَاِنَّ مِنَ الْبَیَانِ لَسِحْرًا",
+      "english": {
+        "narrator": "",
+        "text": "Indeed, in poetry there is wisdom and in eloquence there is magic."
+      },
+      "urdu": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "بیشک شاعری میں حکمت ہے اور کلام میں جادو ہے۔"
+      },
+      "hindi": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "निश्चय ही कविता में बुद्धि है और वाणी में जादू है।"
+      },
+      "bengali": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "সত্যই, কবিতায় জ্ঞান আছে এবং উচ্চারণে যাদু রয়েছে।"
+      }
+    },
+    {
+      "id": 41045,
+      "idInBook": 20,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "عَفْوُ الْمُلُوْكِ إِبْقَاءٌ لِلْمُلْكِ",
+      "english": {
+        "narrator": "",
+        "text": "The king’s pardon preserves the kingdom."
+      },
+      "urdu": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "بادشاہ کی بخشش سلطنت کو محفوظ رکھتی ہے۔"
+      },
+      "hindi": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "राजा की क्षमा राज्य को संरक्षित करती है।"
+      },
+      "bengali": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "রাজার ক্ষমা রাজ্যকে রক্ষা করে।"
+      }
+    },
+    {
+      "id": 41046,
+      "idInBook": 21,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "اَلْمَرْءُ مَعَ مَنْ أَحَبَّ",
+      "english": {
+        "narrator": "",
+        "text": "A man will be with whom he loves."
+      },
+      "urdu": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "ایک آدمی اس کے ساتھ ہو جائے گا جسے وہ محبت کرتا ہے."
+      },
+      "hindi": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "एक आदमी जिसके साथ वह प्यार करता है होगा."
+      },
+      "bengali": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "একজন মানুষ তার প্রিয়জনের সাথে থাকবে।"
+      }
+    },
+    {
+      "id": 41047,
+      "idInBook": 22,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "مَا هَلَكَ إمْرُؤٌ عَرَفَ قَدْرَهُ",
+      "english": {
+        "narrator": "",
+        "text": "A man who knows his worth will not be ruined."
+      },
+      "urdu": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "جو شخص اپنی قدر کو جانتا ہے وہ تباہ نہیں ہو گا."
+      },
+      "hindi": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "एक आदमी जो अपने मूल्य को जानता है, बर्बाद नहीं किया जाएगा।"
+      },
+      "bengali": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "একজন মানুষ যে তার মূল্য জানে, সে ধ্বংস হবে না।"
+      }
+    },
+    {
+      "id": 41048,
+      "idInBook": 23,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "اَلْوَلَدُ لِلْفِرَاشِ وَ لِلْعَاهِرِ الْحَجَرُ",
+      "english": {
+        "narrator": "",
+        "text": "The child belongs to the bed and stoning is for the adulterer."
+      },
+      "urdu": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "بچہ بستر کا حصہ ہے اور سنگسار کرنا زناکار کے لیے ہے۔"
+      },
+      "hindi": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "बच्चा बिस्तर का है और पत्थर मारना व्यभिचारी के लिए है।"
+      },
+      "bengali": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "শিশুটি বিছানার অন্তর্ভুক্ত এবং পাথর ছুঁড়ে মারানো হয় ব্যভিচারীদের জন্য।"
+      }
+    },
+    {
+      "id": 41049,
+      "idInBook": 24,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "الْیَدُ الْعُلْیَا خَیْرٌ مِّنَ الْیَدِ السُّفْلَی",
+      "english": {
+        "narrator": "",
+        "text": "The upper hand is superior to the lower hand."
+      },
+      "urdu": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "اوپر ہاتھ نیچے ہاتھ سے زیادہ ہے."
+      },
+      "hindi": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "ऊपरी हाथ निचले हाथ से श्रेष्ठ है।"
+      },
+      "bengali": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "উপরের হাতটি নীচের হাতের চেয়ে বেশি।"
+      }
+    },
+    {
+      "id": 41050,
+      "idInBook": 25,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "لَا شَکَرَ اللهَ مَنْ لَّا یَشْکُرُ النَّاسَ",
+      "english": {
+        "narrator": "",
+        "text": "He does not thank Allah who does not thank people."
+      },
+      "urdu": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "وہ اللہ کا شکر نہیں کرتا جو لوگوں کا شکر نہیں کرتا"
+      },
+      "hindi": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "वह अल्लाह का शुक्र नहीं करता जो लोगों का शुक्र नहीं करता"
+      },
+      "bengali": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "যে মানুষ কৃতজ্ঞতা প্রকাশ করে না সে আল ্ লাহর শুকরিয়া কবুল করে না ।"
+      }
+    },
+    {
+      "id": 41051,
+      "idInBook": 26,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "حُبُّكَ الشَّيْءَ یُعْمِيْ وَ یُصِمُّ",
+      "english": {
+        "narrator": "",
+        "text": "Your love of something can blind and deafen (you)."
+      },
+      "urdu": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "آپ کی کسی چیز سے محبت (آپ کو) اندھا اور بہرا کر سکتی ہے۔"
+      },
+      "hindi": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "किसी चीज़ के प्रति आपका प्यार (आप) को अंधा और बहरा कर सकता है।"
+      },
+      "bengali": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "তোমার কিছু ভালোবাসার ফলে তুমি অন্ধ ও বধির হয়ে যাবে।"
+      }
+    },
+    {
+      "id": 41052,
+      "idInBook": 27,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "جُبِلَتِ الْقُلُوبُ عَلی حُبَّ مَنْ اَحْسَنَ اِلَیْهَا وَ بُغْضِ مَنْ اَسَاءَ اِلَیْهَا",
+      "english": {
+        "narrator": "",
+        "text": "Hearts are predisposed to love someone who does them good and detest someone who does them harm."
+      },
+      "urdu": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "دل ایسے شخص سے محبت کرنے کے لیے تیار ہیں جو ان کے ساتھ اچھا کرتا ہے اور وہ نفرت کرتا ہے جو ان کے ساتھ برا کرتا ہے۔"
+      },
+      "hindi": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "दिल किसी ऐसे व्यक्ति से प्यार करने के लिए तैयार है जो उन्हें अच्छा करता है और उस व्यक्ति से नफरत करता है जो उन्हें बुराई करता है।"
+      },
+      "bengali": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "হৃদয় তাদের ভালোর প্রতি ভালবাসা এবং ক্ষতির প্রতি ঘৃণা করার প্রবণতা রাখে।"
+      }
+    },
+    {
+      "id": 41053,
+      "idInBook": 28,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "الْتَّائِبُ مِنَ الذَّنْبِ کَمَنْ لَا ذَنْبَ لَهُ",
+      "english": {
+        "narrator": "",
+        "text": "One who repents from sin is like someone without sin."
+      },
+      "urdu": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "جو توبہ کرے وہ گناہ سے پاک ہے"
+      },
+      "hindi": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "जो कोई पाप से तौबा करता है, वह किसी ऐसे व्यक्ति के समान नहीं है जो पाप नहीं करता।"
+      },
+      "bengali": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "যে পাপ থেকে অনুতাপ করে সে যেন পাপহীন।"
+      }
+    },
+    {
+      "id": 41054,
+      "idInBook": 29,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "الشَّاهِدُ یَرَی مَا لَا یَرَاهُ الْغَائِبُ",
+      "english": {
+        "narrator": "",
+        "text": "The person who actually witnesses an (event) sees that which one who is absent does not."
+      },
+      "urdu": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "جو شخص کسی واقعہ کا گواہ ہے وہ اس کو دیکھتا ہے جو غائب نہیں"
+      },
+      "hindi": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "जो व्यक्ति किसी घटना का साक्षी है, वह वही देखता है जो कोई अनुपस्थित नहीं है।"
+      },
+      "bengali": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "যে ব্যক্তি সত্যই সাক্ষী থাকে সে দেখতে পায় যা দেখে না তার অনুপস্থিত।"
+      }
+    },
+    {
+      "id": 41055,
+      "idInBook": 30,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "اِذا جَاءَکُمْ کَرِیْمُ قَوْمٍ فَاَکْرِمُوهُ",
+      "english": {
+        "narrator": "",
+        "text": "If the nobleman of a people comes to you, honour him."
+      },
+      "urdu": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "اگر کوئی شخص تمہارے پاس آئے تو اس کی عزت کرو"
+      },
+      "hindi": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "यदि किसी जाति का कोई शख़्स तुम्हारे पास आए तो उसे मानो।"
+      },
+      "bengali": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "কোন জাতির কোন নবী যদি তোমাদের কাছে আসে, তবে তাকে সম্মান করো।"
+      }
+    },
+    {
+      "id": 41056,
+      "idInBook": 31,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "الْیَمِینُ الْفَاجِرَةُ تَدَعُ الدِّیَارَ الْبَلَاقِعَ",
+      "english": {
+        "narrator": "",
+        "text": "False oaths lay waste to home (lands)."
+      },
+      "urdu": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "جھوٹی قسمیں گھر کو برباد کرتی ہیں"
+      },
+      "hindi": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "झूठी क़समें घर को तबाह करती हैं"
+      },
+      "bengali": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "মিথ্যা শপথের ফলে বাড়ি-বাড়ি ধ্বংস হয়ে যায়।"
+      }
+    },
+    {
+      "id": 41057,
+      "idInBook": 32,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "مَنْ قُتِلَ دُونَ مَالِهِ فَهُوَ شَهِیْدٌ",
+      "english": {
+        "narrator": "",
+        "text": "Whoever is killed attempting to save his property is a martyr."
+      },
+      "urdu": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "جو بھی اپنی جائیداد کو بچانے کی کوشش میں ہلاک ہوا وہ ایک شہید ہے."
+      },
+      "hindi": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "जो भी अपनी संपत्ति को बचाने की कोशिश में मारा जाता है एक शहीद है।"
+      },
+      "bengali": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "যে কেউ তার সম্পত্তি বাঁচানোর চেষ্টা করে হত্যা করা হয়, সে একজন শহীদ।"
+      }
+    },
+    {
+      "id": 41058,
+      "idInBook": 33,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "الْاَعْمَالُ بِالنِّیَّةِ",
+      "english": {
+        "narrator": "",
+        "text": "Actions are through intentions."
+      },
+      "urdu": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "اعمال ارادوں کے ذریعے ہوتے ہیں۔"
+      },
+      "hindi": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "कार्य इरादों के माध्यम से होते हैं।"
+      },
+      "bengali": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "কর্ম উদ্দেশ্য দ্বারা হয়।"
+      }
+    },
+    {
+      "id": 41059,
+      "idInBook": 34,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "سَیِّدُ الْقَوْمِ خَادِمُهُمْ",
+      "english": {
+        "narrator": "",
+        "text": "The leader of a people is their servant."
+      },
+      "urdu": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "قوم کا سردار اُن کا خادم ہے۔"
+      },
+      "hindi": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "एक राष्ट्र का नेता उसका सेवक है।"
+      },
+      "bengali": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "একটি জাতির নেতা তাদের সেবক।"
+      }
+    },
+    {
+      "id": 41060,
+      "idInBook": 35,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "خَیْرُ الْأُمُوْرِ أَوْسَطُهَا",
+      "english": {
+        "narrator": "",
+        "text": "The best of affairs is that which is balanced."
+      },
+      "urdu": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "اور بہترین کام وہ ہے جو متوازن ہو"
+      },
+      "hindi": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "और (ऐ रसूल) जो बात ठीक से बयां की जाती है वह अच्छी है"
+      },
+      "bengali": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "আর উত্তম কাজ হল সমতুল ্ য ।"
+      }
+    },
+    {
+      "id": 41061,
+      "idInBook": 36,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "اَللَّهُمَّ بَارِكْ فِیْ أُمَّتِیْ فِی بُکُوْرِهَا یَوْمَ الْخَمِیْسِ",
+      "english": {
+        "narrator": "",
+        "text": "O Allah, bless my nation in its early rising on Thursdays!"
+      },
+      "urdu": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "اے اللہ میری قوم کو صبح کے روز صبح اٹھنے پر برکت عطا فرما"
+      },
+      "hindi": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "ऐ अल्लाह मेरी क़ौम को गुरुवार के दिन सुबह उठने पर सलाम कर"
+      },
+      "bengali": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "হে আল্লাহ্, আমার জাতিকে শুক্রবার সকালে উদয় হওয়ার জন্য আশীর্বাদ করুন।"
+      }
+    },
+    {
+      "id": 41062,
+      "idInBook": 37,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "کَادَ الْفَقْرُ أَنْ یَکُوْنَ کُفْرًا",
+      "english": {
+        "narrator": "",
+        "text": "Poverty can almost turn into disbelief."
+      },
+      "urdu": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "غربت تقریباً کفر میں بدل سکتی ہے۔"
+      },
+      "hindi": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "गरीबी लगभग अविश्वास में बदल सकती है।"
+      },
+      "bengali": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "দারিদ্র্য প্রায় অবিশ্বাসের মধ্যে পরিণত হতে পারে।"
+      }
+    },
+    {
+      "id": 41063,
+      "idInBook": 38,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "الْسَّفَرُ قِطْعَةٌ مِّنَ الْعَذَابِ",
+      "english": {
+        "narrator": "",
+        "text": "Travelling is a portion of punishment."
+      },
+      "urdu": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "سفر سزا کا حصہ ہے"
+      },
+      "hindi": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "यात्रा करना दंड का एक हिस्सा है।"
+      },
+      "bengali": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "ভ্রমণ শাস্তিের অংশ।"
+      }
+    },
+    {
+      "id": 41064,
+      "idInBook": 39,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "خَیْرُ زَّادِ الْتَّقْوَی",
+      "english": {
+        "narrator": "",
+        "text": "The best of provision is God-Consciousness (taqwa)."
+      },
+      "urdu": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "اور سب سے بہتر رزق تو اللہ کا ڈر ہے"
+      },
+      "hindi": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "और (ऐ रसूल) ख़ुदा का डर तो सबसे अच्छा रोज़ी है"
+      },
+      "bengali": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "আর জীবিকা দান করার মধ ্ যে আল ্ লাহর ভয়ই শ্রেষ্ঠ ।"
+      }
+    },
+    {
+      "id": 41065,
+      "idInBook": 40,
+      "chapterId": 0,
+      "bookId": 12,
+      "arabic": "الْمَجَالِسُ بِالْاَمَانَةِ",
+      "english": {
+        "narrator": "",
+        "text": "Meetings are under trust."
+      },
+      "urdu": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "ملاقاتیں اعتماد کے تحت ہیں."
+      },
+      "hindi": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "बैठकें विश्वास के तहत हैं।"
+      },
+      "bengali": {
+        "source": "NLLB-200",
+        "reviewed": false,
+        "narrator": "",
+        "text": "মিটিংগুলো আস্থাপক।"
+      }
+    }
+  ]
+}
